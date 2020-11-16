@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Makiyo 👋 :jp: :finland:
+Thank you for stopping by!
+I'm a new frontend web developer, programming and building something everyday :octocat: :blush:
 
 <!--
 **makiyo-ronkko/makiyo-ronkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
