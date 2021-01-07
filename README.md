@@ -1,6 +1,12 @@
-### Hello, I'm Makiyo 👋 :jp: :finland:
+### Hello! Moi! こんにちは! 👋 :jp: :finland:
 Thank you for stopping by!
-I'm a new frontend web developer, programming and building something everyday :octocat: :blush:
+I'm a frontend web developer, building something new and working on personal projects for learning and also for fun :octocat: :blush:
+
+Technical Skills:
+- Frontend: HTML5, CSS3, Javascript, React, Redux, Bootstrap
+- Backend: Node.js, Express, REST API
+- Database: MongoDB, MariaDB
+- Others: Trello, Figma, Postman, Gitlab
 
 <!--
 **makiyo-ronkko/makiyo-ronkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
