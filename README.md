@@ -3,7 +3,7 @@ Thank you for stopping by!
 I'm a frontend web developer, building something new and working on personal projects for learning and also for fun :octocat: :blush:
 
 Technical Skills:
-- Frontend: HTML5, CSS3, Javascript, React, Redux, Bootstrap
+- Frontend: HTML5, CSS3, Javascript, React, Redux, Bootstrap, Typescript
 - Backend: Node.js, Express, REST API
 - Database: MongoDB, MariaDB
 - Others: Trello, Figma, Postman, Gitlab
